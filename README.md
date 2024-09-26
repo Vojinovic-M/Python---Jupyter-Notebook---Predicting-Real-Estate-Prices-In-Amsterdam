@@ -1,1 +1,1 @@
-# Python---Jupyter-Notebook---Predicting-Real-Estate-Prices-In-Amsterdam
+# Python - Jupyter-Notebook - Predicting Real Estate Prices In Amsterdam
